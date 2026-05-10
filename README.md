@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anachim&color=0078D4&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-</p>
-
 <h1 align="center">Hi there, I'm Antonio 👋</h1>
 
 <p align="center">
@@ -79,8 +75,12 @@ When I'm not pushing commits or reviewing PRs, you'll probably find me:
 
 ### 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-papa/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/Anachim)
+[![Discord](https://img.shields.io/badge/anachim__skyworker-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6ESuPTx2Kd)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/AnachimSkyworker/)
+[![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/user/Anachim/)
 
-- 💼 Open to collaborating on open source .NET / C# projects
-- 🐛 Found a bug somewhere? Let's fix it together
-- 📬 Reach me via GitHub issues or discussions on any of my repos
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=anachim&color=0078D4&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+</p>
