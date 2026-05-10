@@ -66,34 +66,6 @@ Over the years I've had the chance to build software in very different worlds:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anachim&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Antonio's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anachim&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anachim&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anachim&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anachim/anachim/output/github-snake.svg" alt="Contribution snake" />
-</p>
-
----
-
 ### 🎲 Beyond the keyboard
 
 When I'm not pushing commits or reviewing PRs, you'll probably find me:
